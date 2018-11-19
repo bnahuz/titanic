@@ -9,9 +9,9 @@ Este estudo visa analisar dados de um dataset contendo informações de um dos m
 * Jupyter Notebook  
 
 # Como contribuir
-Caso deseje adicionar informações e melhorias para esse estudo, siga os seguintes passos:
+Caso deseje adicionar informações e melhorias para esse estudo, siga os seguintes passos:  
 
-Fork ou clone este repositório
-Crie um branch com seu nome seguido de sua alteração. Exemplo: john_snow-correcao_ortografica
-Commit suas alterações
-Crie um Pull Request
+Fork ou clone este repositório  
+Crie um branch com seu nome seguido de sua alteração. Exemplo: john_snow-correcao_ortografica  
+Commit suas alterações  
+Crie um Pull Request  
